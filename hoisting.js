@@ -9,8 +9,7 @@ function callMe() {
   //console.log(lyric);
   //var lyric = "maybe";
 }
-//callMe()
-//console.log(callMe());
+
 //----------------------------------------------------
 crazy();
 function crazy() {
