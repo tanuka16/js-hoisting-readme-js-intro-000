@@ -8,8 +8,8 @@ function callMe() {
   return lyric;
   //var lyric = "maybe";
 }
-callMe()
-//console.log(callMe());
+//callMe()
+console.log(callMe());
 //----------------------------------------------------
 crazy();
 function crazy() {
